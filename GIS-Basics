@@ -1,0 +1,20 @@
+Geospatial Data Formats 
+https://gisgeography.com/gis-formats/
+
+
+SHP -
+ESRI Shapefile. It represents Geospatial information in the form of vector data to be used by Geographic Information Systems (GIS) applications. 
+https://docs.fileformat.com/gis/shp/#:~:text=SHP%20is%20the%20file%20extension,Information%20Systems%20(GIS)%20applications.
+
+KML -
+KML (formerly known as Keyhole Markup Language) is an XML-based file format for displaying information in a geographic context.
+
+
+GeoJSON
+UTFGrid
+
+OGC standards 
+WMS
+WFS
+WKT
+WKB
