@@ -1,6 +1,7 @@
 Geospatial Data Formats 
 https://gisgeography.com/gis-formats/
 
+------------------------------------------
 
 SHP -
 ESRI Shapefile. It represents Geospatial information in the form of vector data to be used by Geographic Information Systems (GIS) applications. 
@@ -10,11 +11,25 @@ KML -
 KML (formerly known as Keyhole Markup Language) is an XML-based file format for displaying information in a geographic context.
 
 
-GeoJSON
-UTFGrid
+GeoJSON -
+An open standard geospatial data interchange format that represents simple geographic features and their nonspatial attributes.
+https://geojson.org/
 
-OGC standards 
-WMS
-WFS
-WKT
-WKB
+UTFGrid
+UTFGrid encoding scheme encodes interactivity data for a tile in a space efficient manner. It is designed to be used in browsers, e.g. for displaying tooltips when hovering over certain features of a map tile.
+https://github.com/mapbox/mbtiles-spec/blob/master/1.1/utfgrid.md
+
+------------------------------------------
+
+
+OGC Standards 
+
+WMS - Web Map Service Interface Standard 
+
+WFS -
+
+WKT -
+
+WKB -
+
+
