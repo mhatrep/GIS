@@ -20,9 +20,8 @@ UTFGrid encoding scheme encodes interactivity data for a tile in a space efficie
 https://github.com/mapbox/mbtiles-spec/blob/master/1.1/utfgrid.md
 
 ------------------------------------------
-
-
-OGC Standards 
+OGC Standards
+-------------
 
 WMS - Web Map Service Interface Standard 
 
@@ -32,4 +31,8 @@ WKT - Well-known Text
 
 WKB - Well-known Binary
 
+------------------------------------------
+quadkeys provide a one-dimensional index key that usually preserves the proximity of tiles in XY space.
+https://towardsdatascience.com/geospatial-indexing-with-quadkeys-d933dff01496
 
+https://en.wikipedia.org/wiki/Cover_tree
